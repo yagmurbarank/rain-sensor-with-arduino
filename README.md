@@ -4,12 +4,12 @@
 ## Description
 This project demonstrates the usage of a rain sensor and nRF24L01 communication module with Arduino.
 <br/>
-<div align="left">
+<div align="center">
     <img src="schema.png" alt="schema" width="430" height="300">
   </a>
   </div>
   <br/>
-<div align="right">
+<div align="center">
     <img src="nrf24.png" alt="schema" width="500" height="300">
   </a>
   </div>
