@@ -4,17 +4,17 @@
 ## Description
 This project demonstrates the usage of a rain sensor and nRF24L01 communication module with Arduino.
 <br/>
-<div>
- 
- <img align="left" src="schema.png" alt="schema" width="430" height="300">
-
+<div align="left">
+    <img src="schema.png" alt="schema" width="430" height="300">
+  </a>
+  </div>
+  <br/>
 <div align="right">
     <img src="nrf24.png" alt="schema" width="500" height="300">
   </a>
   </div>
-</div>
   <br/>
-
+  
 ## Hardware Components
 - Arduino board
 - Rain sensor
@@ -37,6 +37,8 @@ This project demonstrates the usage of a rain sensor and nRF24L01 communication 
 - Buzzer Pin: 7
 
 If you need to change pin configurations, locate the corresponding section in the Arduino code and update the pin numbers accordingly.
+
+
 
 
 ## License
