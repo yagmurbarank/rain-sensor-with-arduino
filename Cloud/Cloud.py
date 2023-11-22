@@ -23,4 +23,4 @@ while True:
     if len(u) != 0:
         distance = int(u[0])
     
-    conn.request("https://api.thingspeak.com/update?api_key=UJLIA4UHO5IFI2WV&field1=%d&field2=%d" %(itsRaining, distance))
+    conn.request("key" %(itsRaining, distance))
