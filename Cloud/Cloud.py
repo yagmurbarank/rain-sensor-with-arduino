@@ -12,8 +12,8 @@ conn = httplib2.Http()
 while True:
     ch = ser.readline().decode()
     print(ch)
-    u = re.findall("mesafe=([0-9]+)", ch)
-    y = re.findall("Var", ch)
+    u = re.findall("distance=([0-9]+)", ch)
+    y = re.findall("It is raining.", ch)
 
     if len(y) == 0:
         itsRaining = 0
